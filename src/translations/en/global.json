@@ -1,0 +1,225 @@
+{
+    "home": {
+        "NavBar-Home": "Home",
+        "NavBar-About": "About",
+        "NavBar-Services": "Services",
+        "NavBar-Blog": "Blog",
+        "NavBar-Pricing": "Pricing",
+        "NavBar-Contact": "Contact Us",
+        "title1": "The healing process starts now",
+        "title2": "INNOVATE & CONTEMPORARY PSYCHOTHERAPY",
+        "sideBar-login": "LOGIN",
+        "sidebar-public": "Public",
+        "sidebar-orders": "Orders",
+        "sidebar-testimonial": "Public testimonial",
+        "sidebar-logout": "LOGOUT"
+        
+    },
+
+    "about": {
+        "about1": "WelCome to Mental Flex",
+        "about2": "We are mental health specialists",
+        "description": "Welcome to Mental Flex, your reliable virtual companion in psychotherapy. Our journey began with a commitment to providing compassionate support to individuals navigating life's complexities. Seeking help is the first courageous step towards genuine transformation and improved mental health. At Mental Flex, our core motivation is to assist without judgment, recognizing the unique process of each individual. Our virtual therapy sessions are designed to meet specific needs, fostering meaningful and effective relationships. We prioritize open communication as the cornerstone of the healing process. Our dedicated professionals use psychotherapeutic tools to create a safe and supportive environment, providing individuals with skills to strengthen their personalities and rediscover a profound sense of self. Mental Flex is a community built on empathy, understanding, and a shared commitment to mental health. Together, we embark on a journey towards positive change, fostering resilience and promoting holistic well-being. Join us to embrace the transformative power of therapy. We have an inclusive approach, assisting all individuals without distinctions based on cultural characteristics, sexuality, gender, religion, etc. Take the first step towards a healthier life with Mental Flex; we are here to support you at every step of the process.",
+        "card1": "Psychotherapist"
+    },
+
+    "funfacts": {
+         "f1": "Countries",
+         "f2": "Patients",
+         "f3": "Worked hours",
+         "f4": "Academic hours"
+         
+    },
+
+    "services": {
+        "services-1": "What we do",
+        "services-2": "Services",
+        "option1": "Individual Therapy",
+        "description1": "Therapy for me",
+        "option2": "Couples Therapy",
+        "description2": "Therapy for us",
+        "option3": "Counselling",
+        "description3": "Guidance and emotional support",
+        "option4": "Therapeutic Resources",
+        "description4": "Therapeutic audios, guides, etc"
+
+    },
+
+    "phrase": {
+        "phrase1": "Happiness is not something ready-made. It comes from your own actions.",
+        "phrase3": "- Dalai Lama",
+        "phrase2": "Out of your vulnerabilities will come your strength. - Sigmund Freud"
+    }, 
+
+    "callus": {
+        "call1": "If you would like to work with us",
+        "call2": "Contact Us Now"
+    },
+
+    "questions": {
+        "questions1": "frequently asked questions",
+        "questions2": "Some questions",
+        "questions3": "frequently asked questions",
+        "question1": "What is virtual psychotherapy?",
+        "response1": "Virtual psychotherapy is a psychological support service provided through online platforms, allowing you to receive therapeutic assistance from the comfort of your home through secure video conferences.",
+        "question2": "Do I need any special equipment to participate in virtual therapy?",
+        "response2": "You will only need a device with a webcam and microphone, as well as a stable internet connection. Make sure to be in a private and comfortable location during the sessions.",
+        "question3": "How is payment made for virtual psychotherapy sessions?",
+        "response3": "You can choose the plan that best suits your needs, whether it's a single session or our monthly session packs with a higher discount per session. Payment is processed through PayPal, where you can add your preferred payment method. For alternative payment methods, please contact us at info@mental-flex.com, and we will provide further assistance.",
+        "question4": "How is privacy and confidentiality maintained in virtual sessions?",
+        "response4": "We prioritize privacy and confidentiality by using secure platforms and complying with relevant privacy regulations. Rest assured that client information is handled ethically and professionally, ensuring the utmost confidentiality throughout the virtual sessions",
+        "question5": "Is virtual psychotherapy as effective as in-person therapy?",
+       "response5": "Yes, numerous studies support the effectiveness of virtual psychotherapy, demonstrating that it can be equally as effective as in-person therapy. Additionally, online therapy offers flexibility and convenience, allowing individuals to access support from the comfort of their own environment.",
+       "question6": "What kind of issues or conditions can be addressed in virtual psychotherapy?",
+       "response6": "Virtual psychotherapy can effectively address a wide range of issues, including anxiety, depression, stress, interpersonal relationship challenges, grief, trauma, negative patterns, and various other mental health concerns.",
+       "question7": "What if I want to change therapists for some reason?",
+       "response7": "If you wish to change therapists, simply send us an email at info@mental-flex.com, briefly explaining your reasons for discontinuing with your current therapist and your requirements for selecting a new specialist. We will aim to assign you another therapist within 24 to 48 hours to continue your treatment.",
+       "question8": "How can I become part of the team of psychologists?",
+       "response8": "If you would like to become part of our team, please get in touch through the 'IF YOU WOULD LIKE TO WORK WITH US' section. An email will reach us, and we will respond by requesting your CV and a letter explaining why you would like to join our team. We will gladly review your application."
+
+    },
+
+    "blog": {
+        "blog1": "VALUABLE ARTICLES TO IMPROVE YOUR MENTAL HEALTH",
+        "blog2": "BLOG"
+    },
+
+    "pricing": {
+
+    "pricing1": "Our Packages",
+
+    "pricing2": "CHOOSE THE OPTION THAT BEST SUITS YOU",
+
+    "purchase": "Purchase",
+
+    "individual1": "Individual session",
+
+    "individual2": "1:1 Therapy Session",
+
+    "individual3": "60-minute session",
+
+    "individual4": "1:1 Counselling",
+
+    "individual5": "60-minute Counselling session",
+
+    "individualMonth1": "BEST VALUE",
+
+    "individualMonth2": "Monthly Individual sessions",
+
+    "individualMonth3": "1:1 Therapy Sessions",
+
+    "individualMonth4": "60-minute sessions",
+
+    "individualMonth5": "4 sessions (1 per week)",
+
+    "individualMonth6": "-10% per session: $45",
+
+    "individualMonthx2-1": "Monthly Individual sessions x2",
+
+    "individualMonthx2-2": "1:1 Therapy Sessions",
+
+    "individualMonthx2-3": "60-minute sessions",
+
+    "individualMonthx2-4": "8 sessions (2 per week)",
+
+    "individualMonthx2-5": "-10% per session: $45",
+
+    "couples1": "Couples Therapy Session",
+
+    "couples2": "1:2 Therapy Session",
+
+    "couples3": "60-minute session",
+
+    "couples4": "8 sessions are recommended for Couples Therapy",
+
+    "couplesPackage1": "Couples Therapy Sessions Package",
+
+    "couplesPackage2": "1:2 Therapy Sessions",
+
+    "couplesPackage3": "60-minute sessions",
+
+    "couplesPackage4": "-20% per session: $52",
+
+    "couplesPackage5": "8 sessions are recommended for Couples Therapy",
+
+    "counselling1": "Initial Session / Counselling",
+
+    "counselling2": "1:1 Introductory session",
+
+    "counselling3": "30-minute session",
+
+    "counselling4": "1:1 Counselling",
+
+    "counselling5": "30-minute Counselling session",
+
+    "URL1": "https://www.mental-flex.com/purchase1EN",
+
+    "URL2": "https://www.mental-flex.com/purchase2EN",
+
+    "URL3": "https://www.mental-flex.com/purchase3EN",
+
+    "URL4": "https://www.mental-flex.com/purchase4EN",
+
+    "URL5": "https://www.mental-flex.com/purchase5EN",
+
+    "URL6": "https://www.mental-flex.com/purchase6EN"
+
+
+
+
+
+
+    },
+
+    "contact": {
+
+        "contact1": "Contact Us",
+        "contact2": "Get in Touch with Us",
+        "description": "Feel free to reach out to us, and we'll strive to offer you a prompt response. At Mental Flex, our goal is to deliver holistic support to those who place their trust in our services. Within our organization, you'll discover the psychological assistance essential for fostering positive and enduring transformations in your life. Anyone aspiring to initiate a personal or life change will benefit from the guidance needed to navigate the journey. Recognizing this, at Mental Flex, we stand prepared to be your safe space, providing the environment to work through challenges and obtain the essential tools for a successful journey. Our main pillar is to have an inclusive approach to assist all individuals, without making distinctions based on cultural characteristics, sexuality, sexual identity, gender, religion, etc.",
+        "name": "Name",
+        "message": "Message",
+        "send": "Send"
+        
+    },
+
+ 
+
+    "congratulations": {
+         "congratulations1": "Congratulations on your purchase! You've invested in your mental health and well-being.",
+         "congratulations2": "Thank you very much for trusting Mental Flex.",
+         "congratulations3": "You will be receiving an email",
+         "congratulations4": "with the Google Meet details shortly.",
+         "return": "RETURN"
+
+    },
+
+    "publicTestimonial": {
+
+        "testimonial1": "Testimonial",
+        "testimonial2": "Public your Testimonial",
+        "name": "Name",
+        "description": "Description",
+        "social": "Social account",
+        "optional": "Optional",
+        "image": "Image",
+        "public": "Public"
+    },
+
+
+
+    "bookings": {
+
+        "title1":"Check your bookings",
+        "title2":"Mental Flex",
+        "actual":"Actual Bookings",
+        "pendingB":"Pending Bookings",
+        "past":"Past Bookings",
+        "pending":"Pending",
+        "concluded":"Concluded",
+        "progress": "In Progress",
+        "join": "Join",
+        "loading": "Loading ...",
+        "message": "If for any reason you need to cancel or reschedule this booking, we kindly ask you to do so through the email we sent you with the details of the reservation. This way, we will be able to process your request quickly and efficiently."
+    }
+    
+}
